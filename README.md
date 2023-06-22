@@ -22,3 +22,7 @@ To assess the performance of our movie recommendation system, we employ evaluati
 Deployment and User Interface:
 Once we have a robust movie recommendation system, we focus on deploying it to provide a seamless and user-friendly experience. We develop an intuitive user interface where users can input their preferences, such as favorite genres, actors, or specific movies. The system then generates personalized recommendations in real-time, ensuring an engaging and delightful movie discovery process.
 
+Overall Connection:
+The frontend and backend components are seamlessly connected through Flask, allowing smooth communication between the user interface and the recommendation system. The frontend collects user preferences and sends them to the backend for processing. The backend performs the necessary computations and generates personalized recommendations based on the user input. Finally, the recommended movies are sent back to the frontend, where they are displayed to the user in an engaging and user-friendly manner. This end-to-end connection ensures a seamless and immersive movie recommendation experience.
+
+
