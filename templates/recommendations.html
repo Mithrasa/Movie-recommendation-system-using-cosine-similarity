@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommendation</title>
+</head>
+<body>
+    <h1>Movie Recommendation</h1>
+    <h2>Movies suggested for you:</h2>
+    <ol>
+        {% for movie in movies %}
+            <li>{{ movie }}</li>
+        {% endfor %}
+    </ol>
+</body>
+</html>
+
+
