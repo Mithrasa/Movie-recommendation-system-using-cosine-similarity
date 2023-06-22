@@ -1,7 +1,7 @@
 # Movie-recommendation-system-using-cosine-similarity
 
 
-ntroduction:
+Introduction:
 In this project, we embark on a captivating journey to develop an advanced movie recommendation system. By leveraging the power of machine learning and data analysis, our goal is to create a personalized and immersive movie-watching experience for users. Through cutting-edge algorithms and deep understanding of user preferences, our system aims to provide tailored movie recommendations that cater to individual tastes.
 
 Data Collection and Exploration:
